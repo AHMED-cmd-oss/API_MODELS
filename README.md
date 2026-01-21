@@ -22,8 +22,7 @@ A simple Flask API for loading ML models and making predictions.
 
 ## 📂 Project Structure
 - app.py
-- models ->model1.pkl
-        -> model2.pkl
+- models ->[model1.pkl, model2.pkl]
 - predict.py
 -   
 
